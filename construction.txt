@@ -1,0 +1,3 @@
+Construction 
+ number of levels: 2
+ Type of soil: sand
